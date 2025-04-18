@@ -1,0 +1,1 @@
+Mini project developing RAG applications using LangChain
