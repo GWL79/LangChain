@@ -1,0 +1,4 @@
+chain - combine multiple components together and form one coherent application
+langchain tools - interface that allow LLM to interact with external systems
+Ingest -> Load Documents, Split Document into chunks -> Embed -> Ingest into vector store
+RAG -> Query -> Embed to vector -> find relevant vector in vector store -> augment together with quesry vector -> LLM -> Answer
